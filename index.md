@@ -104,7 +104,7 @@ Focused, lightweight, and native tools built to boost productivity and enhance y
     </div>
     <div class="app-actions">
       <a href="https://barshasantak.github.io/rover" target="_blank" rel="noopener" class="btn btn-secondary">Learn More</a>
-      <a href="https://apps.apple.com/app/idYOUR_APP_ID_1" target="_blank" rel="noopener" class="btn btn-primary">App Store ↗</a>
+      <a href="https://apps.apple.com/us/app/desktop-rover/id6783631987?mt=12" target="_blank" rel="noopener" class="btn btn-primary">App Store ↗</a>
     </div>
   </div>
 
@@ -119,7 +119,7 @@ Focused, lightweight, and native tools built to boost productivity and enhance y
     </div>
     <div class="app-actions">
       <a href="https://barshasantak.github.io/felix" target="_blank" rel="noopener" class="btn btn-secondary">Learn More</a>
-      <a href="https://apps.apple.com/app/idYOUR_APP_ID_2" target="_blank" rel="noopener" class="btn btn-primary">App Store ↗</a>
+      <a href="https://apps.apple.com/us/app/desktop-felix/id6791848020?mt=12" target="_blank" rel="noopener" class="btn btn-primary">App Store ↗</a>
     </div>
   </div>
 
@@ -134,7 +134,7 @@ Focused, lightweight, and native tools built to boost productivity and enhance y
     </div>
     <div class="app-actions">
       <a href="https://barshasantak.github.io/f1-gantry" target="_blank" rel="noopener" class="btn btn-secondary">Learn More</a>
-      <a href="https://apps.apple.com/app/idYOUR_APP_ID_3" target="_blank" rel="noopener" class="btn btn-primary">App Store ↗</a>
+      <a href="https://apps.apple.com/us/app/f1-gantry/id6814986763?mt=12" target="_blank" rel="noopener" class="btn btn-primary">App Store ↗</a>
     </div>
   </div>
 
@@ -149,7 +149,7 @@ Focused, lightweight, and native tools built to boost productivity and enhance y
     </div>
     <div class="app-actions">
       <a href="https://barshasantak.github.io/image-peek" target="_blank" rel="noopener" class="btn btn-secondary">Learn More</a>
-      <a href="https://apps.apple.com/app/idYOUR_APP_ID_4" target="_blank" rel="noopener" class="btn btn-primary">App Store ↗</a>
+      <a href="https://apps.apple.com/us/app/image-peek/id6817664535?mt=12" target="_blank" rel="noopener" class="btn btn-primary">App Store ↗</a>
     </div>
   </div>
 
@@ -164,7 +164,7 @@ Focused, lightweight, and native tools built to boost productivity and enhance y
     </div>
     <div class="app-actions">
       <a href="https://barshasantak.github.io/audio-peek" target="_blank" rel="noopener" class="btn btn-secondary">Learn More</a>
-      <a href="https://apps.apple.com/app/idYOUR_APP_ID_5" target="_blank" rel="noopener" class="btn btn-primary">App Store ↗</a>
+      <a href="https://apps.apple.com/us/app/audio-peek/id6817665269?mt=12" target="_blank" rel="noopener" class="btn btn-primary">App Store ↗</a>
     </div>
   </div>
 
@@ -179,7 +179,7 @@ Focused, lightweight, and native tools built to boost productivity and enhance y
     </div>
     <div class="app-actions">
       <a href="https://barshasantak.github.io/video-peek" target="_blank" rel="noopener" class="btn btn-secondary">Learn More</a>
-      <a href="https://apps.apple.com/app/idYOUR_APP_ID_6" target="_blank" rel="noopener" class="btn btn-primary">App Store ↗</a>
+      <a href="https://apps.apple.com/us/app/video-peek/id6817666279?mt=12" target="_blank" rel="noopener" class="btn btn-primary">App Store ↗</a>
     </div>
   </div>
 
