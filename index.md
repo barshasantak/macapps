@@ -103,7 +103,7 @@ Focused, lightweight, and native tools built to boost productivity and enhance y
       <p class="app-desc">Your Loyal Desktop Companion: Rover stays by your side, watches over your Mac, and keeps you company through every task. He's the loyal and dependable friend you need.</p>
     </div>
     <div class="app-actions">
-      <a href="https://USERNAME.github.io/app-one-repo/" target="_blank" rel="noopener" class="btn btn-secondary">Learn More</a>
+      <a href="https://barshasantak.github.io/rover" target="_blank" rel="noopener" class="btn btn-secondary">Learn More</a>
       <a href="https://apps.apple.com/app/idYOUR_APP_ID_1" target="_blank" rel="noopener" class="btn btn-primary">App Store ↗</a>
     </div>
   </div>
@@ -118,7 +118,7 @@ Focused, lightweight, and native tools built to boost productivity and enhance y
       <p class="app-desc">Your Curious Desktop Companion: Felix explores, observes, and brings a touch of curiosity to your workspace. He helps you stay healthy and keeps an eye on your Mac.</p>
     </div>
     <div class="app-actions">
-      <a href="https://USERNAME.github.io/app-two-repo/" target="_blank" rel="noopener" class="btn btn-secondary">Learn More</a>
+      <a href="https://barshasantak.github.io/felix" target="_blank" rel="noopener" class="btn btn-secondary">Learn More</a>
       <a href="https://apps.apple.com/app/idYOUR_APP_ID_2" target="_blank" rel="noopener" class="btn btn-primary">App Store ↗</a>
     </div>
   </div>
@@ -133,7 +133,7 @@ Focused, lightweight, and native tools built to boost productivity and enhance y
       <p class="app-desc">Lights Out: An app simulating the official FIA Formula 1 starting gantry, with sub-millisecond reaction telemetry, jump-start penalty validation and competitive timing leaderboard.</p>
     </div>
     <div class="app-actions">
-      <a href="https://USERNAME.github.io/app-three-repo/" target="_blank" rel="noopener" class="btn btn-secondary">Learn More</a>
+      <a href="https://barshasantak.github.io/f1-gantry" target="_blank" rel="noopener" class="btn btn-secondary">Learn More</a>
       <a href="https://apps.apple.com/app/idYOUR_APP_ID_3" target="_blank" rel="noopener" class="btn btn-primary">App Store ↗</a>
     </div>
   </div>
@@ -148,7 +148,7 @@ Focused, lightweight, and native tools built to boost productivity and enhance y
       <p class="app-desc">Elevate Your Digital Photography & Imaging Workflow: Native, high-performance image spec analyzer, deep EXIF/optical inspector, and A-B image comparator built for macOS.</p>
     </div>
     <div class="app-actions">
-      <a href="https://USERNAME.github.io/app-four-repo/" target="_blank" rel="noopener" class="btn btn-secondary">Learn More</a>
+      <a href="https://barshasantak.github.io/image-peek" target="_blank" rel="noopener" class="btn btn-secondary">Learn More</a>
       <a href="https://apps.apple.com/app/idYOUR_APP_ID_4" target="_blank" rel="noopener" class="btn btn-primary">App Store ↗</a>
     </div>
   </div>
@@ -163,7 +163,7 @@ Focused, lightweight, and native tools built to boost productivity and enhance y
       <p class="app-desc">Elevate Your Audio Workflow: The native, studio-grade audio specification analyzer and side-by-side A-B diff comparator engineered exclusively for macOS.</p>
     </div>
     <div class="app-actions">
-      <a href="https://USERNAME.github.io/app-five-repo/" target="_blank" rel="noopener" class="btn btn-secondary">Learn More</a>
+      <a href="https://barshasantak.github.io/audio-peek" target="_blank" rel="noopener" class="btn btn-secondary">Learn More</a>
       <a href="https://apps.apple.com/app/idYOUR_APP_ID_5" target="_blank" rel="noopener" class="btn btn-primary">App Store ↗</a>
     </div>
   </div>
@@ -178,7 +178,7 @@ Focused, lightweight, and native tools built to boost productivity and enhance y
       <p class="app-desc">Elevate Your Video Mastering & Workflow: The native, studio-grade video specification analyzer and side-by-side A-B diff comparator engineered exclusively for macOS.</p>
     </div>
     <div class="app-actions">
-      <a href="https://USERNAME.github.io/app-six-repo/" target="_blank" rel="noopener" class="btn btn-secondary">Learn More</a>
+      <a href="https://barshasantak.github.io/video-peek" target="_blank" rel="noopener" class="btn btn-secondary">Learn More</a>
       <a href="https://apps.apple.com/app/idYOUR_APP_ID_6" target="_blank" rel="noopener" class="btn btn-primary">App Store ↗</a>
     </div>
   </div>
